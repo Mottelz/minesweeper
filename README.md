@@ -1,2 +1,2 @@
 # minesweeper
-A project in python
+This is a python exercise
